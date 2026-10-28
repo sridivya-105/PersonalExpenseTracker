@@ -1,4 +1,4 @@
-\ Personal Expense Tracker
+\\ Personal Expense Tracker
 
 
 
@@ -6,7 +6,7 @@ A desktop-based expense tracking application developed using Java Swing. It help
 
 
 
-\ Features
+\\ Features
 
 
 
@@ -32,7 +32,7 @@ A desktop-based expense tracking application developed using Java Swing. It help
 
 
 
-\ Technologies Used
+\\ Technologies Used
 
 
 
@@ -44,7 +44,7 @@ A desktop-based expense tracking application developed using Java Swing. It help
 
 
 
-\ Prerequisites
+\\ Prerequisites
 
 
 
@@ -54,7 +54,7 @@ A desktop-based expense tracking application developed using Java Swing. It help
 
 
 
-\ How to Run
+\\ How to Run
 
 
 
@@ -84,7 +84,7 @@ A desktop-based expense tracking application developed using Java Swing. It help
 
 
 
-\ Project Structure
+\\ Project Structure
 
 
 
@@ -102,7 +102,7 @@ PersonalExpenseTracker/
 
 
 
-\ Future Improvements
+\\ Future Improvements
 
 
 
@@ -116,9 +116,37 @@ PersonalExpenseTracker/
 
 
 
-\ Author
+\\ Author
 
 
 
 Sridivya Damarla
+
+
+
+\## Application Screenshots
+
+
+
+\### All Expenses
+
+!\[All Expenses](all-expenses.png)
+
+
+
+\### Grocery Expenses
+
+!\[Grocery Expenses](grocery-expenses.png)
+
+
+
+\### Bills and Fees
+
+!\[Bills and Fees](bills-expenses.png)
+
+
+
+\### Shopping Expenses
+
+!\[Shopping Expenses](shopping-expenses.png)
 
